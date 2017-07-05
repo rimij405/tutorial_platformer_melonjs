@@ -1,4 +1,4 @@
-melonJS boilerplate
+Taken from the melonJS boilerplate.
 -------------------------------------------------------------------------------
 
 features :
@@ -14,7 +14,7 @@ features :
 
 To build, be sure you have [node](http://nodejs.org) installed. Clone the project:
 
-    git clone https://github.com/melonjs/boilerplate.git
+    git clone https://github.com/rimij405/tutorial_platformer_melonjs
 
 Then in the cloned directory, simply run:
 
